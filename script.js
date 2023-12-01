@@ -609,7 +609,7 @@
 
 
 const fruits = ["Banana","Orange","Apple","Mango","KIwi","Papaya"];
-console.log(fruits.copyWithin(2,0,2));
+console.log(fruits.copyWithin(2,0,2))
 
 
 
